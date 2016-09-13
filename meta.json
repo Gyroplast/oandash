@@ -1,0 +1,9 @@
+{
+	"name": "oandash",
+	"version": "0.1.0.dev",
+	"maintainer": "Dennis Herbrich",
+	"email": "kontakt+oandash@veloxis.de",
+	"homepage": "http://oandash.veloxis.de",
+	"desc": "Console trading shell for the OandA forex broker.",
+	"license": "GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>."
+}
